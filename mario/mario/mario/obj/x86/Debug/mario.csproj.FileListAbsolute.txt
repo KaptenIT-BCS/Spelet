@@ -1,0 +1,16 @@
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\mario.exe
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\mario.pdb
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\obj\x86\Debug\mario.csprojResolveAssemblyReference.cache
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\obj\x86\Debug\mario.exe
+C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\obj\x86\Debug\mario.pdb

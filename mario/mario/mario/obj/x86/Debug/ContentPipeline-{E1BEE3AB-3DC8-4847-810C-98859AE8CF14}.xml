@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E1BEE3AB-3DC8-4847-810C-98859AE8CF14}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\marioContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hannes\Documents\GitHub\Spelet\mario\mario\mario\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-01-14T14:30:54.7160138+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
